@@ -1,10 +1,8 @@
-package com.example._1009;
-
 public class qn2b {
 
     public static void main(String[] args) {
         String modules = "CSC1009";
-        switch (modules)
+        switch(modules)
         {
             case "CSC1006":
                 System.out.println("Mathematics 2");

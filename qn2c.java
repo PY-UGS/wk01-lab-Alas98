@@ -1,5 +1,3 @@
-package com.example._1009;
-
 public class qn2c {
 
     public static void main(String[] args) {
